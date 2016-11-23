@@ -54,18 +54,5 @@ bower_components
 
 
 ### This project ###
-.idea
-
-www
-
-
-.editorconfig
-.gitignore
 .idea/
-app.coffee
-assets/
-coffeelint.json
-gulpfile.coffee
-package.json
-tasks/
 www/
